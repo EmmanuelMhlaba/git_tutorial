@@ -7,4 +7,4 @@ class StartMenu:
             self.showStartScreen()
 
     def showStartScreen(self):
-        print("Welcome!")
+        print("This is the start menu, welcome!")
